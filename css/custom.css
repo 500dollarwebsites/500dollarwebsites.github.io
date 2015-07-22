@@ -1,1 +1,9 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
+.cover a.arrow {
+  display: block;
+}
+
+.cover a.arrow i {
+  color: #fff;
+  opacity: 0.5;
+}
