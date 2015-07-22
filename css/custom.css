@@ -1,9 +1,12 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
-.cover a.arrow {
+.down-arrow {
+}
+
+.down-arrow a {
   display: block;
 }
 
-.cover a.arrow i {
+.down-arrow a i {
   color: #fff;
   opacity: 0.5;
 }
